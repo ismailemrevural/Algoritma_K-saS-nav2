@@ -1,1 +1,1 @@
-# Algoritma_K-saS-nav2
+# Algoritma_KisaSinav2
